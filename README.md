@@ -8,3 +8,6 @@ pip install tensorflow==2.3.1
 pip install torch==1.7.1+cpu torchvision==0.8.2+cpu -f https://download.pytorch.org/whl/torch_stable.html  
 pip install git+https://github.com/onnx/onnx-tensorflow.git  
 ```  
+  
+  
+## You can see an example of the log of all scripts in the file example.log  
